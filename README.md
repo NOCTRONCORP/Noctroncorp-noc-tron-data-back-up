@@ -4,7 +4,7 @@ Our client is the ultimate solution to enhance your gaming experience. With adva
 
 ## Table of Contents
 
-- [Installation](https://vt.tiktok.com/ZS8bg7UKJ/)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
