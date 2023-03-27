@@ -19,7 +19,7 @@ Instructions on how to use the project, with code examples if necessary.
 
 ## Contributing
 
-Guidelines for contributing to the project, including code of conduct and instructions for submitting pull requests.
+To contribute to our client project on GitHub, fork the repository, create a new branch, and use clear commit messages. Ensure all tests pass and follow coding guidelines. Provide clear documentation and collaborate with other contributors. Your contributions can enhance the gaming experience for all users.
 
 ## License
 
